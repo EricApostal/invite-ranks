@@ -1,5 +1,4 @@
-In order to use this, you need to setup the config first.
-
+In order to use this, you need to setup the config first. I don't reccomend you read this in github as therer are formatting issues.
 Example on how to use:
 
 {
