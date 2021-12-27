@@ -67,7 +67,7 @@ async def scanServer(message):
         print('[Log] Scanning all members, one moment...')
         for member in message.guild.members: # iterate through all members using var 'member'
             invites = 0
-            print(member)
+
             for i in await message.guild.invites(): # iterate through every invite link from every member
                 if i.inviter == member: # if the inviter of an invite LINK was that member...
                     invites += i.uses # ... iterate invite variable + the number of link uses
