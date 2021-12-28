@@ -16,5 +16,5 @@ Example on how to use:
 
 }
 
-Keep in mind that you must chose your role basesd on the ID. You must go to Server Settings -> Roles -> Click on ... -> Copy ID.
+Keep in mind that you must chose your role based on the ID. You must go to Server Settings -> Roles -> Click on ... -> Copy ID.
 You then paste that into the config.json file
